@@ -1,4 +1,4 @@
-# food_app
+# Food_App
 This app has been created using Flutter
 
 # Contents
