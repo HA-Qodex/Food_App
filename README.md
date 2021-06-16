@@ -1,5 +1,5 @@
 # food_app
-This app is created using Flutter
+This app has been created using Flutter
 
 # Contents
 * E-commerce App
